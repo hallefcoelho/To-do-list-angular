@@ -15,6 +15,7 @@
 <ul>
   <li>Coletar os dados da tarefa </li>
   <li>Armezenar suas tarefas</li>
+  <li>Alterar suas tarefas</li>
   <li>Excluir cada tarefa isoladamente</li>
   <li>Excluir toda a lista</li>
 </ul>
